@@ -1,0 +1,53 @@
+name: us2k
+description: Ultimate Soundboard 2000 mobile app with Flutter.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^1.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+  flutter_launcher_icons: ^0.9.2
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/images/icon.png
+   - assets/sounds/ahuurr-ah-bhruah.mp3
+   - assets/sounds/ai-mamae.mp3
+   - assets/sounds/ai-meu-deus.mp3
+   - assets/sounds/ai.mp3
+   - assets/sounds/aiaiai.mp3
+   - assets/sounds/atumalaca.mp3
+   - assets/sounds/cavalo.mp3
+   - assets/sounds/cheeeega.mp3
+   - assets/sounds/danca-gatinho-danca.mp3
+   - assets/sounds/demais.mp3
+   - assets/sounds/e-brincadeira-ein.mp3
+   - assets/sounds/ele-gosta.mp3
+   - assets/sounds/irra.mp3
+   - assets/sounds/nao.mp3
+   - assets/sounds/pare.mp3
+   - assets/sounds/que-cara-mais-sem-graca.mp3
+   - assets/sounds/que-isso-meu-filho-calma.mp3
+   - assets/sounds/que-papelao-ein.mp3
+   - assets/sounds/tapa.mp3
+   - assets/sounds/tema-da-vitoria-senna.mp3
+   - assets/sounds/tome.mp3
+   - assets/sounds/uepa.mp3
+   - assets/sounds/uuuui.mp3
+   - assets/sounds/xiiiiii.mp3
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png"
+  remove_alpha_ios: true
