@@ -13,7 +13,7 @@ final List<SoundDetails> _soundList = [
   SoundDetails('ai-mamae', 'Ai Mamãe'),
   SoundDetails('ai-meu-deus', 'Ai Meu Deus'),
   SoundDetails('ai', 'Ai'),
-  SoundDetails('aiaiai', 'Ai Ai AI'),
+  SoundDetails('aiaiai', 'Ai Ai Ai'),
   SoundDetails('atumalaca', 'Atumalaca'),
   SoundDetails('cavalo', 'Cavalo'),
   SoundDetails('cheeeega', 'Cheeeega'),
