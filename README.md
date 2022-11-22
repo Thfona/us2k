@@ -1,6 +1,6 @@
 # Ultimate Soundboard 2000
 
-Ultimate Soundboard 2000 mobile app with Flutter.
+Ultimate Soundboard 2000 mobile app with Flutter made for fun. It plays sounds from the "Vai Dar Namoro" segment from the "Hora do Faro" brazilian TV show.
 
 ## Scripts
 
